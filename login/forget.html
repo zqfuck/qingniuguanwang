@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="青牛在线&青牛办公官网,视频会议,人务互联">
+    <meta name="description" content="青牛视频">
+    <title>青牛视频</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="../styles/login.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+</head>
+<body>
+<div class="headerbox">
+    <header>
+        <img src="../img/logo2.png" alt="青牛视频">
+        <p><a href="../login.html">登录</a><a href="../indexPc.html">官网首页</a></p>
+    </header>
+</div>
+<section>
+    <h3 style="text-align: center;"><span class="Pforget forgetC " style="border-right: 1px solid #009dec;">手机找回密码</span><span class="Pforget">邮箱找回密码</span></h3>
+   <div class="forgetBox">
+       <div class="forgetP " style="height: 450px;">
+           <p class="paddingL430"><input type="text" placeholder="请录入手机号" id="Re_phone" type="tel" maxlength='11' onkeyup="this.value = this.value.replace(/\D/g,'')">
+               <span id="generCode">
+                     <span id="stext" style="color:#ffffff;cursor: pointer;">获取验证码 </span>
+                    <span id="timer" class="" style="display: none; color: #fff;">rr<label>后重发</label></span>
+               </span>
+           </p>
+
+           <p class="paddingL430 red" id="right_ph">请录入正确手机号码</p>
+           <p class="paddingL430"><input type="text" id="Fg_code" placeholder="请录入验证码"></p>
+           <p class="paddingL430 red" id="regiht_code">请输入验证码</p>
+           <p class="paddingL430"><input type="password" id="Fg_pass" placeholder="请录入密码"></p>
+           <p class="paddingL430 red" id="Fg_pwd">请填写密码</p>
+           <p class="paddingL430"><input type="password" id="Fg_password" placeholder="请重复密码"></p>
+           <p class="paddingL430 red" id="Fg_same">请填写一致的密码</p>
+           <p class="paddingL430"><button id="Fg_sub">提交</button></p>
+
+       </div>
+       <div class="forgetP none" style="height: 450px;">
+           <p class="paddingL430"><input type="text" placeholder="请录入手机号" id="Ephone" type="tel" maxlength='11' onkeyup="this.value = this.value.replace(/\D/g,'')"></p>
+           <p class="paddingL430 red" id="Etel">请录入正确手机号码</p>
+           <p class="paddingL430"><input type="text" id="Fg-email" placeholder="请录入邮箱"></p>
+           <p class="paddingL430 red" id="E_mail">请输入正确邮箱</p>
+           <p class="paddingL430" style="margin-top: 151px;"><button id="Fg_Esub">提交</button></p>
+
+       </div>
+   </div>
+</section>
+<footer>
+    <p>Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+
+</footer>
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src="../login_JS/forget.js"></script>
+<script>
+
+
+
+</script>
+</html>

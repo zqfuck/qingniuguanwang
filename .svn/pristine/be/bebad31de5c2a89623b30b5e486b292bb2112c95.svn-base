@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="青牛在线&青牛办公官网,视频会议,人务互联">
+    <meta name="description" content="青牛视频">
+    <title>青牛视频</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/login.css">
+</head>
+<body>
+    <div class="headerbox">
+        <header>
+            <img src="../img/logo2.png" alt="青牛视频">
+            <p><a href="../login.html">登录</a><a href="../indexPc.html">官网首页</a></p>
+        </header>
+    </div>
+    <section>
+       <div class="ReBox" style="height: 500px;">
+           <h3 style="padding-left: 580px;">注册账号</h3>
+           <p id="pic" class="paddingL" ><input type="text" placeholder="请输入验证码" id="picCode"> <img src="http://60.205.136.57:8888/Channel_V4_BMS/CheckCodeServlet" alt="" id="picImg"></p>
+           <p class="paddingL red" id="regihtPic">请输入图片验证码</p>
+           <p class="paddingL"><input type="text" placeholder="请录入手机号" id="Re_phone" type="tel" maxlength='11' onkeyup="this.value = this.value.replace(/\D/g,'')">
+               <span id="generCode">
+			         <span id="stext" style="color:#ffffff;cursor: pointer;">获取验证码 </span>
+			         <span id="timer" class="" style="display: none; color: #fff;">rr<label>后重发</label></span>
+			    </span>
+           </p>
+           <p class="paddingL red" id="right_ph">请录入正确手机号码</p>
+           <p class="paddingL"><input type="text" id="Re_code" placeholder="请录入验证码"></p>
+           <p class="paddingL red" id="regiht_code">请输入验证码</p>
+           <p class="paddingL"><input type="password" id="Re_pass" placeholder="请录入密码"></p>
+           <p class="paddingL red" id="right_pass">请填写密码</p>
+           <p class="paddingL"><input type="password" id="Re_password" placeholder="请重复密码"></p>
+           <p class="paddingL red" id="right_password">请填写一致的密码</p>
+           <p class="paddingL"><button id="Re_sub">提交</button></p>
+       </div>
+        <div class="Re-succes none" style="height: 450px;">
+            <h3 style="text-align: center;">注册账号</h3>
+           <p style="text-align: center;"> <img src="../img/re.png" alt="" ></p>
+            <p style="text-align: center;font-size: 16px;margin-top: 15px;">注册成功</p>
+            <p style="text-align: center;margin-top: 15px;font-size: 16px;color: #666;"><span id="num" style="font-size: 24px;color: #2c865d;margin-right: 12px;margin-left: 18px;">3</span>即将跳转到登录页面</p>
+            <p style="text-align: center;margin-top: 15px;font-size: 16px;"></p>
+           <!-- <p style="text-align: center;"><button id="Re_deng">立即登录</button></p>-->
+        </div>
+    </section>
+    <footer>
+        <p>Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+
+    </footer>
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src="../login_JS/register.js"></script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?e37edb01c8a5d452ee843ae1b2b7bfe2";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</html>

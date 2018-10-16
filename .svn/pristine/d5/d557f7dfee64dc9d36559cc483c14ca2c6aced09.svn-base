@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+    <meta name="description" content="青牛视频，提供视频呼叫中心，可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.css">
+    <link rel="stylesheet" href="templates/default/css/style.css">
+    <link rel="stylesheet" href="styles/login.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+<div class="headerBox">
+    <div class="header">
+        <!--
+                    <a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a>
+        -->
+
+        <ul class="nav list-unstyled clearfix">
+            <li id="logo"><img src="img/logo.png" alt="青牛视频"></li>
+            <li class="on"><a href="indexPc.html">首页</a></li>
+            <li >
+                <a href="product.html">产品服务<span></span> </a>
+                <div class="proNav" id="">
+                    <ul class="inner list-unstyled">
+                        <li><a href="product/ne.html">视频坐席</a></li>
+                        <li><a href="product/cloud.html">可视总机</a></li>
+                        <li><a href="product/hu.html">视频宣教</a></li>
+                        <li><a href="product/pei.html">视频培训</a></li>
+                        <!--<li><a href="product/ce.html">M1</a></li>
+                        <li><a href="product/app.html">T1</a></li>
+                        <li><a href="product/live.html">CDSK</a></li>
+                        <li><a href="product/api.html">SDK&API</a></li>-->
+                    </ul>
+                </div>
+            </li>
+            <li >
+                <a href="solution/99.html">场景解决方案<!-- <span></span> --></a>
+                <div class="proNav" id="">
+                    <!-- <ul class="inner list-unstyled">
+                        <li><a href="./solution/99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+                        <li><a href="./solution/98.html">视频路演</a></li>
+                        <li><a href="./solution/97.html">视频面签</a></li>
+                    </ul> -->
+                </div>
+            </li>
+            <!--<li ><a href="partner.html">合作伙伴</a></li>-->
+            <li ><a href="case.html">成功案例</a></li>
+            <li ><a href="experience.html">体验与下载<span></span></a>
+                <div class="proNav" id="proNav">
+                    <ul class="inner list-unstyled">
+                        <li><a href="experience.html">体验</a></li>
+                        <li><a href="download.html">下载</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li ><a href="advice.html">帮助与支持</a></li>
+            <li ><a href="news.html">产品动态</a></li>
+<!--
+            <li id="login_show"><a href="login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+-->
+            <li ><a href="center.html">账户中心<span></span></a>
+                <div class="proNav">
+                    <ul class="inner list-unstyled">
+                        <li id="center_loginOut"><a href="javascript:;">退出</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+
+        <div class="lr">
+            <!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+        </div>
+    </div>
+</div>
+<div class="center_middle">
+    <div class="center_left">
+        <div class="center_top">
+            <p class="center_color center_check">消息中心</p>
+            <p class="center_C center_check" id="hu">账户管理</p>
+            <h5 class="center_check" id="person">基本资料</h5>
+            <h5 class="center_check" id="save">安全设置</h5>
+        </div>
+       <!-- <div>
+            <p class="center_C">账户管理</p>
+            <div class="center_ji">
+                <h5 class="center_check" id="person">基本资料</h5>
+                <h5 class="center_check" id="save">安全设置</h5>
+            </div>
+        </div>-->
+    </div>
+
+    <div class="center_right">
+        <div class="centerR_box " style="height: 700px;">
+            <p class="center_tit"><span id="center_some" class="center_color ">批量删除</span><span class="center_all none"><span id="delete_check" class="center_color">删除</span><span id="cancel">取消</span></span></p>
+           <div id="center_msg"  style="height: 600px;">
+              <!--
+               <div class="center_message">
+                   <h3>巢成雏长大错多付 <span class="center_time">2017-12-12 12:52:12</span></h3>
+                   <div class="center_con">
+                       法国大范甘迪返回幸福感范甘迪发货给对方会丰厚的核对很多人代发货的发
+
+                   </div>
+                   <p class="check_delete"><input type="checkbox" class="checkInp none"><span id="single_dle">删除</span></p>
+               </div>-->
+
+           </div>
+
+            <div class="tcdPageCode"></div>
+        </div>
+        <div class="centerR_box none">
+            <div class="basic">
+                <p>注册账号: <span class="bank"></span></p>
+                <p>注册时间: <span class="re_time"></span></p>
+            </div>
+        </div>
+        <div class="centerR_box none">
+            <div class="basic">
+                <p>注册账号: <span class="bank"></span></p>
+                <p>注册时间: <span class="re_time"></span></p>
+            </div>
+
+        </div>
+        <div class="centerR_box none">
+            <div class="basic">
+               <h3>基本信息</h3>
+                <p>注册账号: <span class="bank"></span></p>
+                <p>注册时间: <span class="re_time"></span></p>
+                <p>安全级别: <span class="save_Level">低</span></p>
+            </div>
+            <div class="basic">
+                <h3>安全验证</h3>
+                <p><span class="save_width"><span class="save_str">登录密码</span>: 安全性高的密码可以使账号更安全，建议您定期更换密码。 </span><span class="save_she">已设置</span><span class="save_change center_color" id="save_change">修改</span></p>
+                <p><span class="save_width"><span class="save_str">绑定手机</span>: <span class="save_pho bank"></span> </span><span class="save_she">已设置</span></p>
+                <p><span class="save_width"><span class="save_str">绑定邮箱</span>: 绑定邮箱可以用来登录云平台和找回密码。 </span><span class="save_she" id="save_unbind">未绑定</span><span class="save_change center_color" id="save_bind">去绑定</span></p>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+<div class="footer">
+            
+            <div class="foot-nav clearfix">
+                <ul>
+                    <li class="special"><a href="./product.html">产品服务</a></li>
+                    <li><a href="./product/ne.html">视频坐席</a></li>
+                    <li><a href="./product/cloud.html">可视总机</a></li>
+                    <li><a href="./product/hu.html">视频宣教</a></li>
+                    <li><a href="./product/pei.html">视频培训</a></li>
+                </ul>
+                <ul>
+                    <li class="special"><a href="./solution/99.html">场景解决方案</a></li>
+                    <li><a href="./solution/99.html">视频呼叫中心</a></li>
+                    <li><a href="./solution/98.html">视频路演</a></li>
+                    <li><a href="./solution/97.html">视频面签</a></li>
+                    <li><a href="./solution/100.html">金融双录</a></li>
+                    <li><a href="./solution/101.html">私募连线</a></li> 
+                    <li><a href="./solution/102.html">网上沙龙</a></li> 
+                </ul>
+                <ul>
+                    <li style="margin-top:60px"><a href="./solution/103.html">厅堂微沙龙</a></li>
+                    <li><a href="./solution/104.html">空中理财</a></li>
+                    <li><a href="./solution/105.html">可视咨询</a></li>
+                    <li><a href="./solution/106.html">远程保障维修</a></li>
+                    <li><a href="./solution/107.html">远程定损</a></li>
+                </ul>
+                <ul>
+                    <li class="special"><a href="./experience.html">体验与下载</a></li>
+                    <li><a href="./experience.html">体验</a></li>
+                    <li><a href="./download.html">下载</a></li>
+                </ul>
+                <ul>
+                    <li class="special" style="margin-bottom:28px"><a href="./advice.html">帮助与支持</a></li>
+                    <li class="special" style="margin-bottom:28px"><a href="./case.html">成功案例</a></li>
+                    <li class="special" style="margin-bottom:28px"><a href="./news.html">产品动态</a></li>
+                    <li class="special" style="margin-bottom:28px"><a href="./login.html">登录注册</a></li>
+                    <li class="special" style="margin-bottom:28px"><a href="./about.html">关于我们</a></li>
+                    <li class="special" style="margin-bottom:28px"><a href="./join.html">加入我们</a></li>
+                </ul>
+                <div class="shu"></div>
+                <ul>
+                    <li class="special"><a href="./contact.html">联系我们</a></li>
+                    <li>客服热线：</li>
+                    <li style="font-size:24px;font-weight:bold;color:#fff">4000-825-114</li>
+                    <li><span class="qrcode"></span></li>
+                </ul>
+            </div>
+            
+
+            <div class="file">
+                Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+                <br>            </div>
+        </div>
+
+
+<div class="fixed-r">
+
+    <a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+    <a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+    <a class="hh-phone" href="javascript:;" target="_blank"><div class="box" style="width:auto"><span style="width:108px">4000-825-114</span></div></a>
+</div>
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<script type="text/javascript" src="scripts/bootstrap.js"></script>
+<!--<script src="scripts/jquery.cookie.js"></script>-->
+<script src="scripts/commen.js"></script>
+<script src="scripts/jquery.page.js"></script>
+<script src="scripts/center.js"></script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?e37edb01c8a5d452ee843ae1b2b7bfe2";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</body>
+
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+</html>

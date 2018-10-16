@@ -1,0 +1,207 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>生活服务-青牛视频, 生活服务类企业视频场景应用</title>
+	<meta name="keywords" content="生活服务,视频O2O,商品视频认证,家电维修指导，餐饮O2O，社区电子政务 ">
+	<meta name="description" content="青牛视频，面向生活服务类企业提供视频O2O,商品视频认证,家电维修指导，餐饮O2O，社区电子政务在内的视频场景应用服务。">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="renderer" content="webkit|ie-comp|ie-stand">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="Web App">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+	<link rel="stylesheet" href="../templates/default/css/style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<script type='text/javascript'>
+		var _vds = _vds || [];
+		window._vds = _vds;
+		(function(){
+			_vds.push(['setAccountId', '9a3733fe3ea468d0']);
+			(function() {
+				var vds = document.createElement('script');
+				vds.type='text/javascript';
+				vds.async = true;
+				vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(vds, s);
+			})();
+		})();
+	</script>
+</head>
+<body style="background: #fff;">
+
+
+
+<style>
+	A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+	A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+	A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+	A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+
+
+<div class="headerBox">
+	<div class="header">
+		<!--
+                    <a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a></a>
+        -->
+
+		<ul class="nav list-unstyled clearfix">
+			<li id="logo"><img src="../img/logo.png" alt="青牛视频"></li>
+			<li ><a href="../indexPc.html">首页</a></li>
+			<li >
+				<a href="../product.html">产品服务<span></span> </a>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="../product/ne.html">视频坐席</a></li>
+						<li><a href="../product/cloud.html">可视总机</a></li>
+						<li><a href="../product/hu.html">视频宣教</a></li>
+						<li><a href="../product/pei.html">视频培训</a></li>
+						<!--<li><a href="product/ce.html">M1</a></li>
+                        <li><a href="product/app.html">T1</a></li>
+                        <li><a href="product/live.html">CDSK</a></li>
+                        <li><a href="product/api.html">SDK&API</a></li>-->
+					</ul>
+				</div>
+			</li>
+
+			<li class="on">
+				<a href="99.html">场景解决方案<!-- <span></span> --></a>
+				<div class="proNav" id="">
+					<!-- <ul class="inner list-unstyled">
+						<li><a href="./99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="./98.html">视频路演</a></li>
+						<li><a href="./97.html">视频面签</a></li>
+					</ul> -->
+				</div>
+			</li>
+			<li ><a href="../case.html">成功案例</a></li>
+			<li ><a href="../experience.html">体验与下载<span></span></a>
+				<div class="proNav" id="proNav">
+					<ul class="inner list-unstyled">
+						<li><a href="../experience.html">体验</a></li>
+						<li><a href="../download.html">下载</a></li>
+					</ul>
+				</div>
+			</li>
+			<li ><a href="../advice.html">帮助与支持</a></li>
+			<li ><a href="../news.html">产品动态</a></li>
+			<li id="login_show"><a href="../login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="../login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+			<li id="center_show" class="none"><a href="../center.html">账户中心<span></span></a>
+				<div class="proNav">
+					<ul class="inner list-unstyled">
+						<li id="loginOut"><a href="javascript:;">退出</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+
+		<div class="lr">
+			<!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+		</div>
+	</div>
+</div>
+<div class="banner" style="background-image:url(../img/jie.png);">
+	<!--<image src="../image/jie.png" />-->
+</div>
+<div class="solution-list">
+	<a href="99.html">官方客服</a>
+	<a href="98.html" >金融行业</a>
+	<a href="97.html" >电信服务</a>
+	<a href="96.html"  class="active">生活服务</a>
+	<a href="95.html" >猎头招聘</a>
+	<!--<a href="17.html" >K12教育</a>
+    <a href="16.html" >幼教</a>
+    <a href="15.html" >物流</a>
+    <a href="14.html" >智慧乡镇</a>-->
+</div>
+<div class="article" style="width: 1246px;padding: 0 20px;">
+	<div class="zq-solution">
+		<h1>方案背景概述</h1>
+		<p>随着经济发展的逐步提速，“追求高效”成为所有企业的共同目标，高效的前提是要高效沟通。因此青牛视频产品和服务为这些企业搭建高效沟通的首选平台。</p>
+		<p>通过青牛视频产品和服务实现客户与企业、企业节点间高效方便的沟通。</p>
+	</div>
+
+	<div class="zq-solution">
+		<h1>方案目标客户</h1>
+		<p>餐饮</p>
+		<p>娱乐</p>
+		<p>租房</p>
+		<p>买房</p>
+		<p>工作</p>
+		<p>旅游</p>
+		<p>教育</p>
+		<p>亲子</p>
+		<p>婚假</p>
+		<p>培训</p>
+	</div>
+	<div class="zq-solution">
+		<h1>方案特点</h1>
+		<p>不受空间约束，方便自由</p>
+		<p>视频交互，提高沟通效率</p>
+		<p>互联网式的沟通，成本低</p>
+		<p>满足用户个性，集成灵活</p>
+	</div>
+	<div class="zq-solution">
+		<h1>方案场景及详细</h1>
+		<p class="zq-cu">场景一 &nbsp;&nbsp;生鲜电商通过视频进行商品认证</p>
+		<p><strong>方案：</strong>         电商企业应用青牛视频产品，能够实现远程视频需求，在生鲜采购场景中，电商企业或用户可通过视频与生鲜供货商建立沟通，选购生鲜产品；还能与业务结合，方便交易数据的流转和留存，为数据分析提供了依据；此方案提高了生鲜产品的选购质量，增强了电商客户的购物体验</p>
+		<p class="zq-cu">功能：</p>
+		<p><strong>- 客户侧：</strong>视频，音频，IM</p>
+		<p><strong>- 坐席侧：</strong>视频、音频、IM、文件传输、拍照、录音、录像、工单、资料分享等</p>
+		<p class="zq-cu">场景二 &nbsp;&nbsp;视频现场指导家电维修，视频初步咨询诊断</p>
+		<p><strong>方案：</strong>        家电企业应用青牛视频产品，在家电维修场景中，建立客户与维修工程是之间的视频沟通渠道，完成初步诊断和咨询；此方案能够促进维修工作的顺利进行，节省成本，提高客户满意度。</p>
+		<p class="zq-cu">功能：</p>
+		<p><strong>- 客户侧：</strong>视频，音频，IM</p>
+		<p><strong>- 坐席侧：</strong>视频、音频、IM、文件传输、拍照、录音、录像等</p>
+		<p class="zq-cu">场景三 &nbsp;&nbsp;餐饮O2O通过视频全程管理认证</p>
+		<p><strong>方案：</strong>         餐饮O2O企业应用青牛视频产品，在整个管理的过程中，可以建立管理流程内各个空间的视频沟通渠道，宏观调控，细节管理都更胜一筹，视频资料方便保存，为排查和分析打下基础；此方案能够跟全面的管理全程，是整个流程更顺畅，从而提升工作效率，减少事故。</p>
+		<p class="zq-cu">功能：</p>
+		<p><strong>- 客户侧：</strong>视频，音频，IM</p>
+		<p><strong>- 坐席侧：</strong>视频、音频、IM、文件传输、拍照、录音、录像、工单、资料分享等</p>
+		<p class="zq-cu">场景四 &nbsp;&nbsp;社区通过视频实现电子政务接入</p>
+		<p><strong>方案：</strong>          社区型产品运营单位应用青牛视频产品，可在社区网点与服务总部建立视频沟通渠道，在社区电子政务场景内，社区居民可以通过视频方式与政务部门沟通，政务部门也可以通过视频广播最新的政务消息；此方案能够显著降低社区工作难度，提高工作效率。</p>
+		<p class="zq-cu">功能：</p>
+		<p><strong>- 客户侧：</strong>视频，音频，IM</p>
+		<p><strong>- 坐席侧：</strong>视频、音频、IM、文件传输、拍照、录音、录像、工单、资料分享等</p>
+	</div>
+	<div class="zq-solution" style="border: none;">
+		<h1>案例客户</h1>
+		<p>京东</p>
+		<p>北京圣陶教育科技有限公司</p>
+		<p>修哪网</p>
+	</div>
+	<p>&nbsp;</p>		</div>
+
+<div class="footer">
+
+	<div class="foot-nav clearfix">
+		<a href="../about.html">关于我们</a>
+		<a href="../contact.html">联系我们</a>
+		<a href="../join.html" class="last">加入我们</a>
+	</div>
+
+	<div class="file">
+		Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+		<br>			</div>
+</div>
+
+
+<div class="fixed-r">
+
+	<a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+	<a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+
+</div>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+</html>

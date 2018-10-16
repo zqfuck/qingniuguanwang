@@ -1,0 +1,219 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+	<head> 
+		<meta charset="utf-8">
+		<title>视频宣教-企业直播、营销推广、视频获客解决方案</title>
+		<meta name="keywords" content="视频宣教,企业直播,视频获客，互联网推广">
+		<meta name="description" content="视频宣教是青牛视频基于“点对多点”视频直播能力，推出的用于企业对外宣传推广、获客引流等视频场景服务产品。无论是品牌宣传、企业服务宣讲、新产品推介、在线营销，均可通过使用青牛视频宣教服务来实现。">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-title" content="Web App">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+		<link rel="stylesheet" href="../templates/default/css/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+        <script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9a3733fe3ea468d0']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+  </script>	   
+	</head>
+	<body style="background: #fff;">
+
+
+
+<style>
+A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+
+
+
+<div class="headerBox">
+	<div class="header">
+		<!--
+                    <a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a></a>
+        -->
+
+		<ul class="nav list-unstyled clearfix">
+			<li id="logo"><img src="../img/logo.png" alt=""></li>
+			<li ><a href="../indexPc.html">首页</a></li>
+			<li class="on">
+				<a href="../product.html">产品服务<span></span> </a>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="ne.html">视频坐席</a></li>
+						<li><a href="cloud.html">可视总机</a></li>
+						<li><a href="hu.html">视频宣教</a></li>
+						<li><a href="pei.html">视频培训</a></li>
+						<!--<li><a href="product/ce.html">M1</a></li>
+                        <li><a href="product/app.html">T1</a></li>
+                        <li><a href="product/live.html">CDSK</a></li>
+                        <li><a href="product/api.html">SDK&API</a></li>-->
+					</ul>
+				</div>
+			</li>
+
+			<li >
+				<a href="../solution/97.html">场景解决方案<!-- <span></span> --></a>
+				<div class="proNav" id="">
+					<!-- <ul class="inner list-unstyled">
+						<li><a href="../solution/99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="../solution/98.html">视频路演</a></li>
+						<li><a href="../solution/97.html">视频面签</a></li>
+					</ul> -->
+				</div>
+			</li>
+			<li ><a href="../case.html">成功案例</a></li>
+			<li ><a href="../experience.html">体验与下载<span></span></a>
+				<div class="proNav" id="proNav">
+					<ul class="inner list-unstyled">
+						<li><a href="../experience.html">体验</a></li>
+						<li><a href="../download.html">下载</a></li>
+					</ul>
+				</div>
+			</li>
+			<li ><a href="../advice.html">帮助与支持</a></li>
+			<li ><a href="../news.html">产品动态</a></li>
+			<li id="login_show"><a href="../login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="../login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+			<li id="center_show" class="none"><a href="../center.html">账户中心<span></span></a>
+				<div class="proNav">
+					<ul class="inner list-unstyled">
+						<li id="loginOut"><a href="javascript:;">退出</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+
+		<div class="lr">
+			<!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+		</div>
+	</div>
+</div>
+<div class="banner" style="background-image:url(../img/xuan.png)">
+	<!--<image src="../image/m1tou.png" />-->
+</div>
+
+<div class="article hha" style="width: 1246px;">
+	<div class="hh-ne">
+		<h2>视频宣教</h2>
+		<p style="margin-bottom:50px;line-height:36px">视频宣教是面向企业的SaaS直播服务平台，为企业提供直接触达客户的营销工具和服务工具，同时为企业对外宣传推广、获客引流等提供服务。为金融企业在线营销、品牌宣传、企业服务宣讲、新产品推介、产品发布路演、VIP客户维护、线上沙龙、私募连线、理财直播、真人讲盘、信息披露、客户沟通等业务提供强大的媒体服务，同时可为金融企业提供简单和深度集成方案。全面支持企业对内宣教及对外宣教。</p>
+		<img src="../img/spxj/spxj01.png" alt="">
+	</div>
+	<div class="hh-ne">
+		<h2>产品买点</h2>
+		<img style="margin-top:20px;margin-left:132px" src="../img/spxj/spxj02.png" alt="">
+		<p class="jiazhi" style="margin-top:0px">价值：将视频宣教的价值最大化，提升企业盈利能力，向宣教要效益。独有大数据与云计算技术融合帮助用户优化宣教资源配置。</p>
+	</div>
+	<div class="hh-ne hh" style="padding-bottom:50px;">
+		<h2 style="margin-bottom:30px">功能概述</h2>
+		<h3>专属的直播、点播空间</h3>
+		<p>专属管理账号、专属空间，管理独立空间的直播、点播内容。</p>
+		<h3>使用灵活、宣教模式多样</h3>
+		<p>统一平台提供多种宣教模式，支持直播、点播、录播和插播，实现碎片化学习和碎片化管理。</p>
+		<h3>多终端接入突破空间限制</h3>
+		<p>同时支持多种终端接入使用，包括Web浏览器，PC电脑客户端，手机移动终端（IOS和Android）以及平板电脑,Mac电脑等，快速便捷。
+无论是会议室硬件设备、办公电脑，还是智能手机、平板电脑，都可以接入企业宣教室，企业宣教突破时空限制，变得随时随地。</p>
+		<h3>视频同步播放PPT</h3>
+		<p>高清音视频直播，全程PPT跟随，随时提问；视频讲解时，有文档同步展示重难点，有效提升宣教体验。</p>
+		<h3>一键屏幕共享</h3>
+		<p>可以共享Word、Excel、PPT、TXT、PDF等多种格式的文档，并可同步进行标注、写字、贴图等操作，让宣教过程变得丰富多彩。</p>
+		<h3>多种互动方式让宣教更有氛围</h3>
+		<p>音视频、文字等多种互动交流方式，让远程观看的人员与主会场主持人与嘉宾的沟通如同面对面交流一样。更加开放、互动的宣教场景设计，加入了多重互动设计、实时屏幕共享、同步录制。</p>
+		<h3>开放接口方便整合</h3>
+		<p>多平台、多设备适用，无需安装插件，拥有业内最全面的API、SDK接口整合能力。</p>
+		<h3>采用分布式，大并发护航</h3>
+		<p>采用分布式，支持服务器集群，实现大规模并发，南北互动无阻碍。多协议、多格式的分发网络；终端自适应；智能缓冲及画面秒开技术；就近服务，大规模并发；全网质量统计分析。</p>
+	</div>
+	<div class="hh-ae">
+		<h2 style="margin-bottom:0">应用场景</h2>
+		<img src="../img/spxj/spxj03.png" alt="">
+	</div>
+</div>
+
+<div class="footer hha">
+			
+			<div class="foot-nav clearfix">
+				<ul>
+					<li class="special"><a href="../product.html">产品服务</a></li>
+					<li><a href="./ne.html">视频坐席</a></li>
+					<li><a href="./cloud.html">可视总机</a></li>
+					<li><a href="./hu.html">视频宣教</a></li>
+					<li><a href="./pei.html">视频培训</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../solution/99.html">场景解决方案</a></li>
+					<li><a href="../solution/99.html">视频呼叫中心</a></li>
+					<li><a href="../solution/98.html">视频路演</a></li>
+					<li><a href="../solution/97.html">视频面签</a></li>
+					<li><a href="../solution/100.html">金融双录</a></li>
+					<li><a href="../solution/101.html">私募连线</a></li>	
+					<li><a href="../solution/102.html">网上沙龙</a></li>	
+				</ul>
+				<ul>
+					<li style="margin-top:60px"><a href="../solution/103.html">厅堂微沙龙</a></li>
+					<li><a href="../solution/104.html">空中理财</a></li>
+					<li><a href="../solution/105.html">可视咨询</a></li>
+					<li><a href="../solution/106.html">远程保障维修</a></li>
+					<li><a href="../solution/107.html">远程定损</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../experience.html">体验与下载</a></li>
+					<li><a href="../experience.html">体验</a></li>
+					<li><a href="../download.html">下载</a></li>
+				</ul>
+				<ul>
+					<li class="special" style="margin-bottom:28px"><a href="../advice.html">帮助与支持</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../case.html">成功案例</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../news.html">产品动态</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../login.html">登录注册</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../about.html">关于我们</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../join.html">加入我们</a></li>
+				</ul>
+				<div class="shu"></div>
+				<ul>
+					<li class="special"><a href="../contact.html">联系我们</a></li>
+					<li>客服热线：</li>
+					<li style="font-size:24px;font-weight:bold;color:#fff">4000-825-114</li>
+					<li><span class="qrcode"></span></li>
+				</ul>
+			</div>
+			
+
+			<div class="file">
+				Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+				<br>			</div>
+		</div>
+
+
+<div class="fixed-r">
+
+	<a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+	<a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+	<a class="hh-phone" href="javascript:;" target="_blank"><div class="box" style="width:auto"><span style="width:108px">4000-825-114</span></div></a>
+
+</div>
+
+	</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+</html>

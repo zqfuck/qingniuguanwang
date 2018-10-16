@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+    <meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+    <meta name="description" content="青牛视频，提供视频呼叫中心，可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <link rel="stylesheet" href="../styles/styleMb.css">
+    <script src="../scriptsMb/rem.js"></script>
+</head>
+<body>
+<header>
+    <span class="headTitle">视频坐席</span>
+    <div class="nav">
+        <button class="btn-nav">
+            <span class="icon-bar top"></span>
+            <span class="icon-bar middle"></span>
+            <span class="icon-bar bottom"></span>
+        </button>
+    </div>
+</header>
+<div class="mask ">
+    <button class="animated"><a href="../indexMb.html">首页</a></button>
+    <button class="animated"><a href="./videoMachine.html">可视总机</a></button>
+    <button class="animated"><a href="./videoAgent.html">视频坐席</a></button>
+    <button class="animated"><a href="./videoEducation.html">视频宣教</a></button>
+    <button class="animated"><a href="./videoTrain.html">视频培训</a></button>
+    <button class="animated"><a href="./videoCase.html">成功案例</a></button>
+    <button class="animated"><a href="./aboutUs.html">关于我们</a></button>
+    <button class="animated"><a href="./connect.html">联系我们</a></button>
+</div>
+<div class="banner">
+    <img src="../image/banner3.png" alt="">
+</div>
+<div class="videoBox hha">
+    <h3>视频坐席</h3>
+    <p>视频坐席是基于青牛独有的视频通讯网络和音视频通讯技术，实现点对点实时视频通讯、IM、数据通讯、智能路由排队、运维管理等多种标准能力，向企业提供可视销售、可视服务、多媒体协同的视频呼叫中心产品。它具有可视沟通、工作协同的功能，能够大幅度提升销售效率和服务满意度。向合作伙伴提供一站式互联网视频应用解决方案。</p>
+    <img style="margin-top:0.5rem" src="../image/shipinzuoxi01.png" alt="">
+</div>
+<div class="space"></div>
+<div class="videoBox hha">
+    <h3>产品买点</h3>
+    <img src="../image/shipinzuoxi02.png" alt="">
+    <p style="margin-top:0.6rem">价值：帮助企业用户快速高效的实现视频呼叫中心应用的集成整合，提升企业服务品质、推动企业业务增长。</p>
+</div>
+<div class="space"></div>
+<div class="videoBox hh-ne">
+    <h3 style="margin-bottom:32px">功能概述</h3>
+        <h4>实时音视频通讯</h4>
+        <p>基于青牛独有的视频通讯网络和音视频通讯技术，实现清晰、稳定的实时音视频通讯效果</p>
+        <h4>智能路由功能</h4>
+        <p>支持轮询、按技能组分配、按坐席分配等策略；支持多种技能组策略；支持根据实际需求，便捷的添加新的智能路由及技能组策略</p>
+        <h4>人工智能功能</h4>
+        <p>支持人脸识别、电子签名、语音识别等人工智能功能，提供符合相关法规的合规管理</p>
+        <h4>完善的运营管理</h4>
+        <p>支持坐席管理、统计报表，实现专业的视频呼叫中心管理</p>
+        <h4>多平台接入突破空间限制</h4>
+        <p>同时支持多种平台接入使用，包括windows、Mac、IOS、Android等平台。</p>
+        <h4>开放接口方便整合</h4>
+        <p>多平台、多设备适用，无需安装插件，拥有业内最全面的API、SDK接口整合能力。</p>
+        <h4>专属的视频通讯网络</h4>
+        <p>拥有全国第一张覆盖全国的专属视频通讯网络，通过专利的编解码算法，在公共网络环境下，提供高清画质视频通话！</p>
+</div>
+<div class="space"></div>
+<div class="videoBox hha">
+    <h3>应用场景</h3>
+    <img src="../image/shipinzuoxi03.png" alt="">
+</div>
+
+
+<footer>
+    <div class="about">
+        <a href="./aboutUs.html">关于我们</a>
+        <span></span>
+        <a href="./connect.html">联系我们</a>
+    </div>
+    <div class="copy">
+        <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+        <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+    </div>
+</footer>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scriptsMb/commen.js"></script>
+</html>

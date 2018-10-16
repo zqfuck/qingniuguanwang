@@ -1,0 +1,21 @@
+$(function(){
+	$('#nav li').hover(function(){
+		
+		$('#nav li.on').removeClass('add');
+		$(this).addClass('add');
+	},function(){
+		$(this).removeClass('add');
+		$('#nav li.on').addClass('add');
+	});
+	if($('#solution-nav')){
+		$('#solution-nav li').hover(function(){
+		
+		$('#solution-nav li.add').removeClass('active');
+		$(this).addClass('active');
+	},function(){
+		$(this).removeClass('active');
+		$('#solution-nav li.add').addClass('active');
+	})
+	}
+	
+})

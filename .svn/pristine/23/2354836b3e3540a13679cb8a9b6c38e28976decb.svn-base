@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+    <meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+    <meta name="description" content="青牛视频，提供视频呼叫中心，可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <link rel="stylesheet" href="../styles/styleMb.css">
+    <script src="../scriptsMb/rem.js"></script>
+</head>
+<body>
+<header>
+    <span class="headTitle">视频宣教</span>
+    <div class="nav">
+        <button class="btn-nav">
+            <span class="icon-bar top"></span>
+            <span class="icon-bar middle"></span>
+            <span class="icon-bar bottom"></span>
+        </button>
+    </div>
+</header>
+<div class="mask ">
+    <button class="animated left"><a href="../indexMb.html">首页</a></button>
+    <button class="animated"><a href="./solution/solutionList.html">场景解决方案</a></button>
+   
+    <button class="animated left"><a href="./videoAgent.html">视频坐席</a></button>
+     <button class="animated"><a href="./videoMachine.html">可视总机</a></button>
+    <button class="animated left"><a href="./videoEducation.html">视频宣教</a></button>
+    <button class="animated"><a href="./videoTrain.html">视频培训</a></button>
+    
+    <button class="animated left"><a href="./videoCase.html">成功案例</a></button>
+    <footer style="position:absolute;bottom:0;left:0">
+        <div class="about-us" style="border-bottom:1px solid white;padding:0;margin:0">
+            <a href="./aboutUs.html">关于我们</a>
+            <span></span>
+            <a href="./connect.html">联系我们</a>
+        </div>
+        <div class="copy">
+            <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+            <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+        </div>
+    </footer>
+</div>
+<div class="banner">
+    <img src="../image/banner2.png" alt="">
+</div>
+<div class="videoBox hha">
+    <h3>视频宣教</h3>
+    <p>视频宣教是面向企业的SaaS直播服务平台，为企业提供直接触达客户的营销工具和服务工具，同时为企业对外宣传推广、获客引流等提供服务。为金融企业在线营销、品牌宣传、企业服务宣讲、新产品推介、产品发布路演、VIP客户维护、线上沙龙、私募连线、理财直播、真人讲盘、信息披露、客户沟通等业务提供强大的媒体服务，同时可为金融企业提供简单和深度集成方案。全面支持企业对内宣教及对外宣教。</p>
+    <img style="margin-top:0.5rem" src="../image/shipinxuanjiao01.png" alt="">
+    <img style="margin-top:0.8rem" src="../image/shipinxuanjiao02.png" alt="">
+</div>
+<div class="space"></div>
+<div class="videoBox hha">
+    <h3>产品特点</h3>
+    <img src="../image/shipinpeixun02.png" alt="">
+    <p style="margin-top:0.5rem">价值：将视频宣教的价值最大化，提升企业盈利能力，向宣教要效益。独有大数据与云计算技术融合帮助用户优化宣教资源配置。</p>
+</div>
+<div class="space"></div>
+<div class="videoBox hh-ne">
+    <h3 style="margin-bottom:32px">功能概述</h3>
+        <h4>专属的直播、点播空间</h4>
+        <p>专属管理账号、专属空间，管理独立空间的直播、点播内容。</p>
+        <h4>使用灵活、宣教模式多样</h4>
+        <p>统一平台提供多种宣教模式，支持直播、点播、录播和插播，实现碎片化学习和碎片化管理。</p>
+        <h4>多终端接入突破空间限制</h4>
+        <p>同时支持多种终端接入使用，包括Web浏览器，PC电脑客户端，手机移动终端（IOS和Android）以及平板电脑,Mac电脑等，快速便捷。
+        无论是会议室硬件设备、办公电脑，还是智能手机、平板电脑，都可以接入企业宣教室，企业宣教突破时空限制，变得随时随地。</p>
+        <h4>视频同步播放PPT</h4>
+        <p >高清音视频直播，全程PPT跟随，随时提问；视频讲解时，有文档同步展示重难点，有效提升宣教体验。 </p>
+        <h4>一键屏幕共享</h4>
+        <p>可以共享Word、Excel、PPT、TXT、PDF等多种格式的文档，并可同步进行标注、写字、贴图等操作，让宣教过程变得丰富多彩。</p>
+        <h4>多种互动方式让宣教更有氛围</h4>
+        <p>音视频、文字等多种互动交流方式，让远程观看的人员与主会场主持人与嘉宾的沟通如同面对面交流一样。
+            更加开放、互动的宣教场景设计，加入了多重互动设计、实时屏幕共享、同步录制。</p>
+        <h4>开放接口方便整合</h4>
+        <p>多平台、多设备适用，无需安装插件，拥有业内最全面的API、SDK接口整合能力。</p>
+        <h4>采用分布式，大并发护航</h4>
+        <p>采用分布式，支持服务器集群，实现大规模并发，南北互动无阻碍。多协议、多格式的分发网络；终端自适应；智能缓冲及画面秒开技术；就近服务，大规模并发；全网质量统计分析。</p>
+</div>
+<div class="space"></div>
+<div class="videoBox hha">
+    <h3>应用场景</h3>
+    <img src="../image/shipinxuanjiao03.png" alt="" ">
+</div>
+
+<footer>
+    <div class="about">
+        <a href="./aboutUs.html">关于我们</a>
+        <span></span>
+        <a href="./connect.html">联系我们</a>
+    </div>
+    <div class="copy">
+        <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+        <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+    </div>
+</footer>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scriptsMb/commen.js"></script>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+</head>
+<body>
+<script>
+    var UA = navigator.userAgent,
+            isAndroid = /android|adr/gi.test(UA),
+            isIos = /iphone|ipod|ipad/gi.test(UA) && !isAndroid,
+            isMobile = isAndroid || isIos;
+    if(isMobile){
+        location.href= "indexMb.html";
+    }else{
+        location.href= "indexPc.html";
+    }
+</script>
+</body>
+</html>

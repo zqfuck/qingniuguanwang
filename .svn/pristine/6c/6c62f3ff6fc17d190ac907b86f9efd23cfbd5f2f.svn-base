@@ -1,0 +1,265 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>金融行业-青牛视频,金融行业视频场景解决方案.</title>
+	<meta name="keywords" content="风险揭示，视频面签，远程开户，专家咨询，在线讲解，VTM, ">
+	<meta name="description" content="青牛视频，面向金融企业提供风险揭示，视频面签，远程开户，专家咨询，在线讲解在内的视频场景应用服务。">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="renderer" content="webkit|ie-comp|ie-stand">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="Web App">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+	<link rel="stylesheet" href="../templates/default/css/style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<script type='text/javascript'>
+		var _vds = _vds || [];
+		window._vds = _vds;
+		(function(){
+			_vds.push(['setAccountId', '9a3733fe3ea468d0']);
+			(function() {
+				var vds = document.createElement('script');
+				vds.type='text/javascript';
+				vds.async = true;
+				vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(vds, s);
+			})();
+		})();
+	</script>
+</head>
+<body style="background: #fff;">
+
+
+
+<style>
+	A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+	A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+	A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+	A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+
+
+
+<div class="headerBox">
+	<div class="header">
+		<!--
+                    <a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a></a>
+        -->
+
+		<ul class="nav list-unstyled clearfix">
+			<li id="logo"><img src="../img/logo.png" alt="青牛视频"></li>
+			<li ><a href="../indexPc.html">首页</a></li>
+			<li >
+				<a href="../product.html">产品服务<span></span> </a>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="../product/ne.html">视频坐席</a></li>
+						<li><a href="../product/cloud.html">可视总机</a></li>
+						<li><a href="../product/hu.html">视频宣教</a></li>
+						<li><a href="../product/pei.html">视频培训</a></li>
+						<!--<li><a href="product/ce.html">M1</a></li>
+                        <li><a href="product/app.html">T1</a></li>
+                        <li><a href="product/live.html">CDSK</a></li>
+                        <li><a href="product/api.html">SDK&API</a></li>-->
+					</ul>
+				</div>
+			</li>
+
+			<li class="on">
+				<a href="99.html">场景解决方案<!-- <span></span> --></a>
+				<div class="proNav" id="">
+					<!-- <ul class="inner list-unstyled">
+						<li><a href="./99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="./98.html">视频路演</a></li>
+						<li><a href="./97.html">视频面签</a></li>
+					</ul> -->
+				</div>
+			</li>
+			<li ><a href="../case.html">成功案例</a></li>
+			<li ><a href="../experience.html">体验与下载<span></span></a>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="../experience.html">体验</a></li>
+						<li><a href="../download.html">下载</a></li>
+					</ul>
+				</div>
+			</li>
+			<li ><a href="../advice.html">帮助与支持</a></li>
+			<li ><a href="../news.html">产品动态</a></li>
+			<li id="login_show"><a href="../login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="../login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+			<li id="center_show" class="none"><a href="../center.html">账户中心<span></span></a>
+				<div class="proNav">
+					<ul class="inner list-unstyled">
+						<li id="loginOut"><a href="javascript:;">退出</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+
+		<div class="lr">
+			<!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+		</div>
+	</div>
+</div>
+<div class="banner" style="background-image:url(../img/jie.png);">
+	<!--<image src="../image/jie.png" />-->
+</div>
+<div class="list-solution">
+	<!-- <span class="turn-left" id="turnLeft"></span>
+	<span class="turn-right" id="turnRight"></span> -->
+	<!-- <div style="width:1246px;margin:0 auto;overflow:hidden">
+		<ul id="list">
+			<li><a href="99.html" class="active">视频呼叫中心</a></li>
+			<li><a href="98.html">视频路演</a></li>
+			<li><a href="97.html">视频面签</a></li>
+			<li><a  href="100.html" >金融双录</a></li>
+			<li><a href="101.html" >私募连线</a></li>
+			<li><a href="102.html" >网上沙龙</a></li>
+			<li><a href="103.html" >厅堂微沙龙</a></li>
+			<li><a href="104.html">空中理财</a></li>
+			<li><a  href="105.html" >可视咨询</a></li>
+			<li><a  href="106.html" >远程保障维修</a></li>
+			<li><a href="107.html" >远程定损</a></li>
+		</ul>
+	</div> -->
+	<ul>
+		
+		
+		<li><a href="./97.html">视 频 面 签</a></li>
+		<li><a href="./100.html">金 融 双 录</a></li>
+		<li class="active"><a href="./98.html">视 频  路  演</a></li>
+		<li><a href="./101.html">私 募 连 线</a></li>
+		<li><a href="./102.html">网 上 沙 龙</a></li>
+		<li><a href="./103.html">厅堂微沙龙</a></li>
+		<li><a href="./104.html">空 中 理 财</a></li>
+		<li><a href="./106.html">远程报障维修</a></li>
+		<li><a href="./107.html">远 程 定 损</a></li>
+		<li><a href="./105.html">可 视 咨 询</a></li>
+		<li><a href="./99.html">视频呼叫中心</a></li>
+	</ul>			
+</div>
+<div class="article hhd" style="width: 1246px;padding: 0 20px;">
+<div class="hh-ne">
+		<h2>行业背景</h2>
+		<p>路演（包含但不限于证券领域）指在公共场所进行演说、演示产品、推介理念，及向他人推广自己的公司、团体、产品、想法的一种方式。</p><p>传统线下路演，发行人要在全国各地巡回路演，才能让大多数人了解到自己在美国、香港等海外证券市场，股票发行人一天要安排很多场推介会，期间工作量很大，效率因此低下。</p>
+		<p>在传统的线下路演推介会中，证券发行商发放大量纸质材料，不便携带和保存，而且每次路演的时间较短，不利于大众深入了解商家的情况。</p><p>传统线下路演会中，发行人和承销商要根据巡回路演后的结果来决定发行价和发行规模，由于人工计算评估，准确度低，速度较慢，耗时较长。</p>
+	</div>
+	<div class="hh-ne">
+		<h2 style="margin-bottom:30px">解决方案</h2>
+		<p>视频路演是指把在公共场所进行演说、演示产品、推介理念、业绩推介、产品推介、上市抽签、上市仪式直播、重大事件实时报道，及向他人推广自己的公司、团体、产品、想法等线下活动，充分利用视频直播的特点，使“路演”不受时间、地域的限制，更重要的是充分利用其它媒体所不能相比的视频直播互动交流的方式引起目标人群的关注，让他们产生兴趣，最终达成销售。</p>
+		<p>视频路演有两种直接效果，一是宣传，让更多的人知道和了解你；二是可以视频面对面的营销，可增加目标人群的视觉体验机会。</p>
+		<img style="margin-top:30px;margin-bottom:50px" src="../img/sply/sply01.png" alt="">
+		<p class="jiazhi" style="margin-top:0">通过视频直播路演，利用一次性的路演活动就可全方位展现自己，在很大程度上降低了发布者的时间成本。</p>
+		<p>在线上路演中，企业可将大量公司资料存放在数据库中，供人们随时查阅，便于公众反复浏览、研读，加深了解。</p>
+		<p>在视频直播路演中，可以利用线上调查系统，设计调查表格让投资者填写，通过自动统计诵查结果，供发行人和承销商进行及时科学评估、判断。</p>
+	</div>
+	<div class="hh-ne fangan" style="padding-bottom:0;">
+		<h2>方案优势</h2>
+		<p style="line-height:36px">视频路演在速度、广度方面要明显优于传统的营销方式，有助于达到更加理想的营销效果。实时视频路演可以帮助企业更好地提高路演效率，准确传达相关信息，降低差旅费等支出。 </p>
+		<p style="line-height:36px">通过视频云平台快速发起直播路演连接人与现场，节省沟通成本。该方案主要用于产品路演、产品发布等直播活动。</p>
+		<h3 style="margin-top:30px">线下线上实时同步。线下安排地面会场，邀嘉宾参会；线上则利用视频传输技术设计虚拟会场，代表凭密码参会，可实现与线下会场相同的效果。</h3>
+		<h3>远程异地互动交流。可实现跨地区、跨国界同的联接、交流。</h3>
+		<h3>场景随意切换。主持人可根据会议议程安排，切换各会场场景，随意指定不同地点参会者进行提问。</h3>
+		<h3>实时互动。线上观众可以通过文字提问，路演嘉宾可实时以视频、语音与文字同步问答。</h3>
+		<h3>形象展示。借助视频云的传播，以图片、文字、视频形式，立体再现公司的企业综台形象。</h3>
+		<h3 style="margin-bottom:50px">实现信息开放。投资人的问题如得到解答，通过视频云平台传输可使其成为所有投资人共享的信息资源。</h3>
+	</div>
+	<div class="hh-ae" style="border-bottom:1px solid #ccc">
+		<h2 style="margin-bottom:30px">主要功能特点</h2>
+		<h3>专属的直播、点播空间</h3>
+		<h3>无需安装插件，高清直播即点即播 </h3>
+		<h3>支持直播通知、预约直播及直播提醒、直播录制 </h3>
+		<h3>支持PPT、PDF、图片等文档同频展示</h3>
+		<h3>支持实时投票、点赞、打赏、调查问卷、消息广播、评论在线交流等互动 </h3>
+		<h3>支持评论审核、敏感词过滤</h3>
+		<h3>支持企业官网、官微、微信公众号、朋友圈等同步展示 </h3>
+		<h3>支持用户管理，用户白名单、黑名单、用户隐私管理</h3>
+		<h3>生成详细的统计数据，进行精准营销</h3>
+		<h3>可扩展多方视频会议互动直播，多路多方视频切换</h3>
+		<h3>开放的接口，供第三方调用</h3>
+	</div>
+	<div class="hh-ne">
+		<h2>案例分享</h2>
+		<p class="before">嘉实基金投资策略会</p>
+		<img  style="margin-top:50px;margin-bottom:50px" src="../img/sply/sply02.png" alt="">
+		<p class="before">恒天财富产品路演</p>
+		<img style="margin-top:50px" src="../img/sply/sply03.png" alt="">
+	</div>
+</div>
+
+<div class="footer" style="margin-top:0">
+			
+			<div class="foot-nav clearfix">
+				<ul>
+					<li class="special"><a href="../product.html">产品服务</a></li>
+					<li><a href="../product/ne.html">视频坐席</a></li>
+					<li><a href="../product/cloud.html">可视总机</a></li>
+					<li><a href="../product/hu.html">视频宣教</a></li>
+					<li><a href="../product/pei.html">视频培训</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="./99.html">场景解决方案</a></li>
+					<li><a href="./99.html">视频呼叫中心</a></li>
+					<li><a href="./98.html">视频路演</a></li>
+					<li><a href="./97.html">视频面签</a></li>
+					<li><a href="./100.html">金融双录</a></li>
+					<li><a href="./101.html">私募连线</a></li>	
+					<li><a href="./102.html">网上沙龙</a></li>	
+				</ul>
+				<ul>
+					<li style="margin-top:60px"><a href="../solution/103.html">厅堂微沙龙</a></li>
+					<li><a href="./104.html">空中理财</a></li>
+					<li><a href="./105.html">可视咨询</a></li>
+					<li><a href="./106.html">远程保障维修</a></li>
+					<li><a href="./107.html">远程定损</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../experience.html">体验与下载</a></li>
+					<li><a href="../experience.html">体验</a></li>
+					<li><a href="../download.html">下载</a></li>
+				</ul>
+				<ul>
+					<li class="special" style="margin-bottom:28px"><a href="../advice.html">帮助与支持</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../case.html">成功案例</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../news.html">产品动态</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../login.html">登录注册</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../about.html">关于我们</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../join.html">加入我们</a></li>
+				</ul>
+				<div class="shu"></div>
+				<ul>
+					<li class="special"><a href="../contact.html">联系我们</a></li>
+					<li>客服热线：</li>
+					<li style="font-size:24px;font-weight:bold;color:#fff">4000-825-114</li>
+					<li><span class="qrcode"></span></li>
+				</ul>
+			</div>
+			
+
+			<div class="file">
+				Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+				<br>			</div>
+		</div>
+
+
+<div class="fixed-r">
+
+	<a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+	<a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+	<a class="hh-phone" href="javascript:;" target="_blank"><div class="box" style="width:auto"><span style="width:108px">4000-825-114</span></div></a>
+
+</div>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+<script src="../script/lunbo.js"></script>
+</html>

@@ -1,0 +1,102 @@
+#butel-video-icon {
+    position:fixed;
+    top: 405px;
+    right: 30px;
+    width: 135px;
+    height: 134px;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 999;
+}
+#butel-video-icon img{width: 100%;height: 100%;}
+#butel-video-im {
+    position:absolute;
+    top: 485px;
+    right: 30px;
+    width: 135px;
+    height: 134px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#butel-video-icon:hover {
+}
+
+#butel-video-shield {
+    position: absolute;
+    top: 85px;
+    left: 0;
+    right: 0;
+    height: 400px;
+    z-index: 1000;
+    opacity: 0;
+    background-color: #000000;
+    display: none;
+}
+
+#butel-video-container {
+    position: fixed;
+    top: 85px;
+    left: 15%;
+    right: 15%;
+    height: 400px;
+    z-index: 1000;
+    /*opacity: 0;*/
+    visibility: hidden;
+    filter: alpha(opacity=0);
+    background: url('../img/makeCall.gif') no-repeat;
+    background-position: center;
+}
+
+#butel-video-area {
+    width: 711px;
+    height: 400px;
+    margin: 0 auto;
+    /*background-color: #545CAD;*/
+    overflow: hidden;
+}
+
+#butel-video-area-temp {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+}
+
+#butel-loadding-area {
+    width: 533px;
+    height: 100%;
+    margin: 0 auto;
+    line-height: 400px;
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+    opacity: 0;
+}
+
+/* é¦–é¡µå›¾ç‰‡ */
+#butel-img-container {
+    overflow: hidden;
+    position: relative;
+    height: 480px;
+}
+
+.img-container {
+    height: 480px;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+}
+
+.at-left {
+    left: 0;
+}
+
+.at-right {
+    right: 0;
+}

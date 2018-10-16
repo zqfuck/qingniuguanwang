@@ -1,0 +1,232 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+	<head> 
+		<meta charset="utf-8">
+		<meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+		<meta name="description" content="青牛视频，提供可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+		<title>青牛可视总机,视频坐席,视频宣教,视频培训.</title>
+				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-title" content="Web App">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+		<link rel="stylesheet" href="../templates/default/css/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+        <script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9a3733fe3ea468d0']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+  </script>	   
+	</head>
+	<body style="background: #fff;">
+
+
+<style>
+A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+
+
+
+<div class="headerBox">
+	<div class="header">
+		<!--
+                    <a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a></a>
+        -->
+
+		<ul class="nav list-unstyled clearfix">
+			<li id="logo"><img src="../img/logo.png" alt="青牛视频"></li>
+			<li ><a href="../indexPc.html">首页</a></li>
+			<li >
+				<a href="../product.html">产品服务<span></span> </a>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="../product/ne.html">视频坐席</a></li>
+						<li><a href="../product/cloud.html">可视总机</a></li>
+						<li><a href="../product/hu.html">视频宣教</a></li>
+						<li><a href="../product/pei.html">视频培训</a></li>
+						<!--<li><a href="product/ce.html">M1</a></li>
+                        <li><a href="product/app.html">T1</a></li>
+                        <li><a href="product/live.html">CDSK</a></li>
+                        <li><a href="product/api.html">SDK&API</a></li>-->
+					</ul>
+				</div>
+			</li>
+
+			<li >
+				<a href="../solution/97.html">场景解决方案<!-- <span></span> --></a>
+				<div class="proNav" id="">
+					<!-- <ul class="inner list-unstyled">
+						<li><a href="../solution/99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="../solution/98.html">视频路演</a></li>
+						<li><a href="../solution/97.html">视频面签</a></li>
+					</ul> -->
+				</div>
+			</li>
+			<li ><a href="../case.html">成功案例</a></li>
+			<li ><a href="../experience.html">体验与下载<span></span></a>
+				<div class="proNav" id="proNav">
+					<ul class="inner list-unstyled">
+						<li><a href="../experience.html">体验</a></li>
+						<li><a href="../download.html">下载</a></li>
+					</ul>
+				</div>
+			</li>
+			<li ><a href="../advice.html">帮助与支持</a></li>
+			<li class="on"><a href="../news.html">产品动态</a></li>
+			<li id="login_show"><a href="../login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="../login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+			<li id="center_show" class="none"><a href="../center.html">账户中心<span></span></a>
+				<div class="proNav">
+					<ul class="inner list-unstyled">
+						<li id="loginOut"><a href="javascript:;">退出</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+
+		<div class="lr">
+			<!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+		</div>
+	</div>
+</div>
+<div class="banner" style="background-image:url(../img/news.png)">
+	<!--	<image src="data/hero/8171CCEBDD8FF413D648AF942C0B4F6F.jpg" />-->
+</div>
+																				
+		<div class="article">
+<!--						<h1 class="article-title">CRM场景化时代来临，青牛软件在京发布视频呼叫中心产品</h1>
+			<div class="article-attr">
+				<span>2016-10-20</span>
+				<span>1044 次阅读</span>
+			</div>
+						<p>2016年10月20日，青牛软件在北京金融街洲际酒店召开产品发布会，宣告正式发布视频呼叫中心产品——可视总机，为千万企业提供基于互联网+多媒体联络中心的企业级沟通方案，为企业提供精准高效的场景化CRM服务。</p>
+
+<p>&nbsp;</p>
+
+			<p style="text-align:center"><image src="../image/u19.png" /></p>
+			<p style="text-align:center"><image src="../image/u151.png" /></p>
+			<p style="text-align: center;">青牛软件CEO胡云飞</p>
+
+<p><strong>未来的企业-消费者关系：线上/场景化CRM</strong></p>
+	<p>互联网信息技术从多个维度将人与人紧密连接，从文字到语音、视频、社交媒体，沟通随时随地，无处不在。(C to C)</p>
+	<p>人在商业社会具有消费者属性，消费者的日常生活衣食住行，无时不在使用企业提供的产品与服务，然而对于售前、售中、售后的整个过程，用户能否拥有良好的体验将变得越来越重要。(B to C)</p>
+	<p>信息时代，服务体验已经作为企业产品的一部分而存在，消费者在售前、售中、售后，通过与企业接触的过程(CRM)感受到服务，从而衡量企业服务水平和品牌实力的优劣，可以预见，拥有区别于其他竞争者的高品质体验，将成为企业竞争力的一个组成部分。在这点上，效率、便利性、人性化和想象力，仍有很大的提升空间。 </p>
+			<p>&nbsp;</p>
+<p style="text-align:center"><image src="../image/u155.png" /></p>
+			<p style="text-align: center;">青牛视频产品总监邓松</p>
+			<p>青牛此次发布的视频呼叫中心产品，核心目标即是对线下业务场景最大可能的还原，帮助企业提供最接近真实的服务场景，在线上创造“身临其境”的用户体验，从而为企业的消费者提供更高效率、更高品质、更为人性化的服务。</p>
+<p><strong>拥抱视频呼叫中心服务的多种可能</strong></p>
+
+<p>可视总机提供的多元化入口、多媒体通讯和统一平台处理服务能够实现多种渠道入口供用户来访，多种数据方式连接用户，以及一体化平台构建的用户服务中心。可视总机提供的视频服务能为用户提供全线上化的场景，能为终端用户带来身临其境的沟通体验，对于企业来也能为用户提供优质的差异化服务，有利于企业构建企业服务品质、信任度、亲和力，最终强化企业品牌形象。</p>
+
+<p>例如在产品使用指导上，以前企业能够给用户提供的常常是复杂而冗长的产品使用手册，或者进通过电话这种单一维度的沟通方式，这些手段不仅沟通不顺畅，也无法准确的为用户提供清晰简明的服务，更遑论用户的个性化定制服务。有了可视总机视频呼叫中心的服务，用户能轻松的找到自己想要的信息，而企业也能极大的节省沟通成本。同样，该服务也可以用于专家诊断答疑场景，专家只需使用视频呼叫中心服务对用户进行远程指导，对客户而言也可以实现随时随地找到专家的需求。</p>
+
+<p>&nbsp;</p>
+			<p style="text-align:center"><image src="../image/u161.png" /></p>
+			<p style="text-align: center;">修哪儿网CEO杨一萌做现场演示</p>
+			<p> 除此之外，可视总机还能革新消费者的线上消费体验。借助视频呼叫中心服务，消费者可以一对一的与导购进行在线地视频交流，而导购也可以依据消费者需求进行一对一的销售推荐，从而提高传统在线销售的用户留存率和成交率。另外，在保险金融服务，可视总机也有对应的使用场景，例如在线理赔，或是现场客户支持等等，视频呼叫中心能通过多媒体的方式对日常业务进行风险管控。</p>
+			<p>同时，青牛软件基于国内第一张商用视频网络，为企业打造了定制化直播服务，通过青牛的企业直播平台，轻松实现稳定而高品质的商务活动在线直播。
+				更多沟通可能，更自由的创意空间，更精简的流程服务，青牛可视总机将会为企业在未来的沟通革命中提供协助，迎接CRM场景化时代的到来。</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>提高中国企业的营销效率</strong></p>
+
+<p>青牛可视总机作为一款为企业用户打造的满足企业与客户线上沟通需求的产品，支持客户百度信誉档案页入口，企业官网、第三方网站发起IM、视频、音频渠道的会话请求，多渠道为企业的营销效率提供保障。其中青牛支持的百度信誉档案页入口则是青牛软件与百度深入合作的成果。百度力图打造一个连接人与服务的信息平台，而提高中国企业的营销效率则是青牛一直以来所追寻的使命。</p>
+<p>青牛软件CEO胡云飞先生表示：“青牛可视总机的发布秉承着我们一直以来帮助企业实现无处不在的融合服务愿景。青牛可视总机的目标是帮助企业达成拓宽营销渠道、实现精准投放;树立营销口碑，增强企业信任度;降低获客成本，实现精准营销等目标：真正实现企业间的互惠共赢。青牛可视总机视频呼叫中心服务有志于领航下一代企业革命，为行业带来变革新动力!”</p>-->
+
+</div>
+
+<div class="footer">
+			
+			<div class="foot-nav clearfix">
+				<ul>
+					<li class="special"><a href="../product.html">产品服务</a></li>
+					<li><a href="../product/ne.html">视频坐席</a></li>
+					<li><a href="../product/cloud.html">可视总机</a></li>
+					<li><a href="../product/hu.html">视频宣教</a></li>
+					<li><a href="../product/pei.html">视频培训</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../solution/99.html">场景解决方案</a></li>
+					<li><a href="../solution/99.html">视频呼叫中心</a></li>
+					<li><a href="../solution/98.html">视频路演</a></li>
+					<li><a href="../solution/97.html">视频面签</a></li>
+					<li><a href="../solution/100.html">金融双录</a></li>
+					<li><a href="../solution/101.html">私募连线</a></li>	
+					<li><a href="../solution/102.html">网上沙龙</a></li>	
+				</ul>
+				<ul>
+					<li style="margin-top:60px"><a href="../solution/103.html">厅堂微沙龙</a></li>
+					<li><a href="../solution/104.html">空中理财</a></li>
+					<li><a href="../solution/105.html">可视咨询</a></li>
+					<li><a href="../solution/106.html">远程保障维修</a></li>
+					<li><a href="../solution/107.html">远程定损</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../experience.html">体验与下载</a></li>
+					<li><a href="../experience.html">体验</a></li>
+					<li><a href="../download.html">下载</a></li>
+				</ul>
+				<ul>
+					<li class="special" style="margin-bottom:28px"><a href="../advice.html">帮助与支持</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../case.html">成功案例</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../news.html">产品动态</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../login.html">登录注册</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../about.html">关于我们</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../join.html">加入我们</a></li>
+				</ul>
+				<div class="shu"></div>
+				<ul>
+					<li class="special"><a href="../contact.html">联系我们</a></li>
+					<li>客服热线：</li>
+					<li style="font-size:24px;font-weight:bold;color:#fff">4000-825-114</li>
+					<li><span class="qrcode"></span></li>
+				</ul>
+			</div>
+			
+
+			<div class="file">
+				Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+				<br>			</div>
+		</div>
+
+
+<div class="fixed-r">
+
+	<a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+	<a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+	<a class="hh-phone" href="javascript:;" target="_blank"><div class="box" style="width:auto"><span style="width:108px">4000-825-114</span></div></a>
+
+</div>
+
+	</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src="../scripts/basefn.js"></script>
+<script src="../scripts/detail.js"></script>
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+<script>
+
+
+</script>
+</html>

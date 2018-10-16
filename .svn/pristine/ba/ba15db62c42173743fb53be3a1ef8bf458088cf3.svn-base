@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+    <meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+    <meta name="description" content="青牛视频，提供视频呼叫中心，可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <link rel="stylesheet" href="../../styles/styleMb.css">
+    <script src="../../scriptsMb/rem.js"></script>
+</head>
+<body>
+<header >
+    <span class="headTitle">网上沙龙</span>
+    <i class="goback"></i>
+</header>
+<div class="industrybg">
+    <h2>场景痛点</h2>
+    <p>传统的线下沙龙活动，常常会出现人员分散、时间难以协调、集中宣教成本昂贵等问题，难以满足企业的实际需求。</p>
+    <img src="../../image/wsslMb1.png" alt="">
+</div>
+<div class="blank">
+</div>
+<div class="industrybg" style="margin-top:0">
+    <h2>解决方案介绍</h2>
+    <p>面向企业或活动会场，主持人与场外嘉宾实时互动，共同探讨同一话题或不同主题。一点发起，多点连线；跨域多人参与连线，文字互动收集需求；收录、回放，多次使用。</p>
+</div>
+<div class="blank"></div>
+<div class="function hh" style="padding-bottom:0">
+    <h2>案例优势</h2>
+    <h3>一点发起、多点连线</h3>
+    <p>主持方，在任何地方发起直播沙龙，参与嘉宾可在任何地方直播连线，参与沙龙，可多位嘉宾同时参与沙龙。
+    </p>
+    <h3>无需出差，节约成本</h3>
+    <p>省差旅费，节约时间，提高产出</p>
+    <h3>高清留存，便于回顾</h3>
+    <p>录播随时点播；一次沙龙多次回看。
+    </p>
+    <h3>使用门槛低</h3>
+    <p>不需专用设备，投资少；不限规模；不受地点限制；场地要求降低。</p>
+</div>
+<div class="blank"></div>
+<div class="function" style="padding-bottom:0.4rem">
+    <h2>功能介绍</h2>
+    <img src="../../image/wsslMb2.png" alt="">
+</div>
+<div class="blank"></div>
+<div class="function hha">
+    <div>
+        <h2>应用案例</h2>
+        <h4>嘉实基金网上沙龙</h4>
+        <p>嘉实基金管理有限公司举办5周年庆典活动时，利用网上沙龙解决方案，实现主会场与4个分会场实时互动直播，共同探讨投资策略</p>
+        <img src="../../image/wsslMb3.png" alt="">
+        <h4 style="margin-top:0.4rem;margin-bottom:0.2rem">给客户带来的价值是：</h4>
+        <p>能够实现各分会场与主会场高清实时沟通，双向通话延时不超过一秒</p>
+        <p>整个活动面向全国用户实时直播，观众可通过手机、pad、pc进行观看</p>
+        <p>观众覆盖面广，扩大了公司影响力，针对性强，已超过广告投入效果。</p>
+    </div>
+    
+</div>
+<footer>
+    <div class="about">
+        <a href="../aboutUs.html">关于我们</a>
+        <span></span>
+        <a href="../connect.html">联系我们</a>
+    </div>
+    <div class="copy">
+        <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+        <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+    </div>
+</footer>
+</body>
+<script>
+    document.querySelector('.goback').onclick=function(){
+        window.history.go(-1);
+    }
+</script>
+</html>

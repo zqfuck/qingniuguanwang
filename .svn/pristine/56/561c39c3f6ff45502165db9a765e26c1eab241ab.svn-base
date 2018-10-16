@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频</title>
+</head>
+<body>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script>
+
+   // http://localhost:63342/work/xiaoyuonline/qingniuguanwang/qingniuguanwang/login/skip.html?token=Rgn13BFPXyTOfIrij1xuVplwCt4yXES+aimzSWBWZ0unfYIHtGtVp91mTZfNKPwVcNlx6lzEvTlGQPN932nuixI6ffl55SMh
+
+    var token=location.search;
+   token=token.substring(7)
+   console.log(token)
+  // token="Rgn13BFPXyTOfIrij1xuVplwCt4yXES+aimzSWBWZ0unfYIHtGtVp91mTZfNKPwVcNlx6lzEvTlGQPN932nuixI6ffl55SMh";
+   // token=token.replace(/\+/g, "%2B");
+   // token=token.replace(/&/g,"%26");
+    $.ajax({
+        url: URL + "/user/validate",
+        type: 'post',
+        dataType: 'jsonp',
+        data: {
+            token:token
+        },
+        error: function () {
+
+        },
+        success: function (data) {
+            console.log(data)
+           if (data.success){
+               var data=data.obj;
+              // console.log(data);
+               var to=data.to;
+               var code=data.code;
+               var PH=data.phone;
+               localStorage.find_code=code;
+               localStorage.find_tel=PH;
+               if (to=="reset"){
+                   window.location.href="./sheE.html";
+               }else if (to=="add"){
+                   window.location.href="./bindE_S.html";
+               }
+           }else {
+               var data=data.obj;
+               // console.log(data);
+               var to=data.to;
+               if (to=="reset"){
+                   window.location.href="./timeE.html";
+               }else if (to=="add"){
+                   window.location.href="./bindE_F.html";
+               }
+
+           }
+
+        }
+
+    });
+
+</script>
+
+</html>

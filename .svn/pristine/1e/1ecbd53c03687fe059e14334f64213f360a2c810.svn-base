@@ -1,0 +1,206 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+	<head> 
+		<meta charset="utf-8">
+		<meta name="keywords" content="小鱼易连&小鱼办公官网,视频会议,人务互联">
+		<meta name="description" content="">
+		<title>产品与服务 - 小鱼易连&小鱼办公-官网-让世界零距离</title>
+				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-title" content="Web App">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="stylesheet" type="text/css" href="../../styles/bootstrap.css">
+		<link rel="stylesheet" href="../../templates/default/css/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="http://www.xiaoyuonline.com/images/favicon.ico"> 
+        <script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9a3733fe3ea468d0']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+  </script>	   
+	</head>
+	<body>
+
+
+<!-- Copyright � 2008. Spidersoft Ltd -->
+<style>
+A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+<div style='BORDER: 1px solid #DCE6F4; MARGIN-TOP: 20px; MARGIN-BOTTOM: 20px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px; PADDING: 5px; BACKGROUND-COLOR: #eef8ff;line-height:180%; COLOR: #000000; font-family: Arial; font-size: 8pt; width=100%; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr="#FFFFFFFF", EndColorStr="#F2F5FAFF");'>
+This page was saved using <a class="applink" href="http://www.spidersoft.com"><b>WebZIP 7.1.2.1052</b></a> <a class="applink" href="http://www.spidersoft.com"><b>offline browser</b></a>  (Unregistered) on  02/28/17 9:58:42.<br>
+<b>Address:</b> <a class="info" href="http://www.xiaoyuonline.com/category/1/">http://www.xiaoyuonline.com/category/1/</a><br>
+<b>Title:</b> 产品与服务 - 小鱼易连&小鱼办公-官网-让世界零距离 &nbsp;&bull;&nbsp; <b>Size:</b> 7314<br></div>
+<!-- /Copyright � 2008. Spidersoft Ltd -->
+
+
+			<div class="headerBox">
+		<div class="header">
+			<a href="../../indexPc.html" class="logo" style="background-image:url(data/3F4488DB32D11E5168A043FF5E08A1EF.png)"></a>
+			
+			<ul class="nav list-unstyled clearfix">
+				<li ><a href="../../indexPc.html">首页</a></li>
+				<li class="on">
+					<a href="../../product.html">产品服务<span></span> </a>
+					<div class="proNav" id="proNav">
+						<ul class="inner list-unstyled">
+														<li><a href="../../product/cloud.html">全球云服务</a></li>
+														<li><a href="../../product/ne.html">NE智能终端</a></li>
+														<li><a href="../../product/me.html">ME智能终端</a></li>
+														<li><a href="../../product/ce.html">CE智能终端</a></li>
+														<li><a href="../../product/app.html">软件客户端</a></li>
+														<li><a href="../../product/live.html">小鱼直播</a></li>
+														<li><a href="../../product/api.html">小鱼API</a></li>
+													</ul>
+					</div>
+				</li>
+
+				<li >
+										<a href="../../solution/99.html">解决方案
+										</a><span></span>
+				<div class="proNav" id="">
+					<ul class="inner list-unstyled">
+						<li><a href="../../solution/99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="../../solution/98.html">视频路演</a></li>
+						<li><a href="../../solution/97.html">视频面签</a></li>
+					</ul>
+				</div>
+									</li>
+				<li ><a href="../../partner.html">合作伙伴</a></li>
+				<li ><a href="../../case.html">成功案例</a></li>
+				<li ><a href="../../download.html">下载中心</a></li>
+				<li ><a href="../../news.html">新闻动态</a></li>
+			</ul>
+			
+			<div class="lr">
+				<a href="https://vip.xylink.com/">管理员登录</a>
+			</div>
+		</div>
+	</div>																																																																<div class="earthBox product" style="cursor:pointer;" onclick="document.location='/product/cloud'">
+			<div class="earth">
+				<h3>全球云服务</h3>
+				<p>全球部署，分布式架构</p>
+				<p>支持百万用户并发，万方大规模高清视频会议</p>
+				<p>MCU处理延时小于40ms</p>
+				<p>智能路由负载均衡，通话无中断，可自动迁移</p>
+			</div>
+		</div>
+		
+		
+		<div class="neBox product" style="cursor:pointer;" onclick="document.location='/product/ne'">
+			<div class="ne">
+				<h3>NE系列智能终端</h3>
+				<p>高度集成一体化硬件终端，开机即用</p>
+				<p>高保真全向麦克风，8米有效拾音距离</p>
+				<p>1080p、90度超大广角光学摄像头、无畸变</p>
+				<p>专业高清视频硬件编解码</p>
+				<p>支持有线、WIFI及4G网络接入</p>
+				<p>极致简单用户体验</p>
+			</div>
+		</div>
+		
+		
+		<div class="meBox product" style="cursor:pointer;" onclick="document.location='/product/ME'">
+			<div class="me">
+				<h3>ME系列智能终端</h3>
+				<p>H.265编解码，4K超高清图像处理</p>
+				<p>世界领先的回音消除、混响处理技术，</p>
+				<p>创新人机界面体验，通过语音命令和小鱼触屏操控</p>
+				<p>丰富的音视频输入输出接口，方便与各种多媒体设备集成</p>
+			</div>
+		</div>
+		
+		
+		<div class="ceBox product" style="cursor:pointer;" onclick="document.location='/product/CE'">
+			<div class="ce">
+				<h3>CE系列智能终端</h3>
+				<p>一体化ID设计，内置1080P高清摄像头、阵列麦克风</p>
+				<p>可发送1080P高清视频，接收4K超高清图像</p>
+				<p>安装部署方便快捷，操控简单</p>
+				<p>与高清电视组合，形成最佳性价比视频互动方案</p>
+			</div>
+		</div>
+		
+		
+		<div class="pcBox product" style="cursor:pointer;" onclick="document.location='/product/app'">
+			<div class="pc">
+				<h3>软件客户端</h3>
+				<p>支持iPhone、iPad、安卓手机、PC 、 Mac </p>
+				<p>可实现1080p多方高清视频会议</p>
+				<p>电脑屏幕分享、音视频文件分享、图片共享</p>
+				<p>PC客户端实现会议主持，直播创建，共享中心管理</p>
+			</div>
+		</div>
+		
+		
+		<div class="liveBox product" style="cursor:pointer;" onclick="document.location='/product/live'">
+			<div class="live">
+				<h3>小鱼直播</h3>
+				<p>无需专业设备和技术人员保障，实现企业级高清直播</p>
+				<p>可移动部署，适应室内外各种场景</p>
+				<p>支持多位嘉宾视频接入，远程互动</p>
+				<p>轻松支持百万并发，浏览器观看无需安装插件</p>
+			</div>
+		</div>
+		
+		
+		<div class="apiBox product" style="cursor:pointer;" onclick="document.location='/product/api'">
+			<div class="api">
+				<h3>小鱼API</h3>
+				<p>客户端音视频API，小鱼终端API，云服务API，直播API</p>
+			</div>
+		</div>
+		
+
+				<div class="footer">
+			
+			<div class="foot-nav clearfix">
+				<a href="../../about.html">关于我们</a>
+				<a href="../../contact.html">联系我们</a>
+				<a href="../../join.html" class="last">加入我们</a>
+			</div>
+			
+			<div class="link">
+				友情链接：
+								<a href="http://www.chuangxin.com/" title="创新工场" target="_blank">创新工场</a>
+							</div>
+			
+			<div class="foot-logo">
+				<a href="" class="foot-logo1"><img src="../../templates/default/images/foot-logo1.png" alt=""></a>
+				<a href="" class="foot-logo2"><img src="../../templates/default/images/foot-logo2.png" alt=""></a>
+			</div>
+			
+			<div class="state">声明：小鱼易连为解决方案产品，请勿线上选购。任何电商平台及第三方网站报价销售，售后服务均不受小鱼易连厂商保护。</div>
+			
+			<div class="file">
+				Copyright © 2017, XYLink Inc.
+				<br>			</div>
+		</div>
+		
+		
+		<div class="fixed-r">
+			<a href="http://p.qiao.baidu.com/cps/chat?siteId=10243414&userId=19063288" target="_blank">
+				<div class="box"><span>在线咨询</span></div></a>
+			<a class="tel" href=""><div class="box"><span>咨询电话<br>010-58103637</span></div></a>
+			<a class="wechat" href=""><div class="box"><img src="../../data/page/920A991AA5DDD00E320F5F6396998ED7.jpg">扫描二维码关注我们</div></a>
+			<a class="try" href="../../try.php.html"><div class="box"><span>立即试用</span></div></a>
+		</div>
+
+	</body> 
+</html>

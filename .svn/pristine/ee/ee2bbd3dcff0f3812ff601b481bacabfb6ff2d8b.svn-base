@@ -1,0 +1,76 @@
+body{ font-family: "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;font-size: 14px;}
+body{margin: 0;padding: 0;}
+a{text-decoration: none;color: inherit;}
+a:link {text-decoration: none;color: inherit;}
+a:visited {text-decoration: none;color: inherit;}
+a:hover {text-decoration: none;color: inherit;}
+a:active {text-decoration: none;color: inherit;}
+.headerbox{width: 100%;background: #f5f5f5;height: 150px;}
+header{width: 1246px;margin: 0 auto;height: 150px;padding-left: 60px;}
+header img{margin-top: 40px;}
+section p{margin: 5px 0 ;padding: 0;}
+.none{display: none;}
+header p{width: 30%;float: right;margin-top: 47px;}
+header p a{padding-right: 64px;font-size: 16px;color: #666;}
+section{height: 500px;width: 1246px;margin: 0 auto;}
+section input{width: 380px;height: 40px;outline: none;padding-left: 20px;border: 1px solid #dcdcdc;font-size: 18px;}
+input::-moz-placeholder{color: #b4b4b4!important;}
+input:-ms-input-placeholder{color: #b4b4b4!important;}
+input::-webkit-input-placeholder{color: #b4b4b4!important;}
+.paddingL{padding-left: 450px;}
+.paddingL430{padding-left: 420px;}
+.red{color: crimson;visibility: hidden;}
+#picCode{width: 243px;}
+#pic img{vertical-align: middle;width: 120px;height: 41px;margin-left: 10px;cursor: pointer;}
+section h3{font-size: 26px;margin: 28px 0px 38px 0px;color: #333;font-weight: normal;}
+#Re_phone,#Fg_phone{width: 243px;}
+button{height: 40px;color: #fff;background: #009dec;outline: none;border: none;}
+#generCode,#Fg_sendCode{display:inline-block;width: 120px;margin-left: 10px;height: 41px;
+    background: #009dec;color: #fff;text-align: center;line-height: 41px;}
+
+#sub,#deng,#Esub,#Fg_sub,#Re_sub,#Fg_Esub,#login,#Re_deng{width: 400px;height: 50px;font-size: 16px;cursor: pointer;}
+#deng,#login,#Re_deng{margin-top: 60px;}
+footer{height: 126px;text-align: center;line-height: 126px;background: #f5f5f5;}
+.sectionBox{width: 1246px;height: 600px;margin: 0 auto;background: url("../img/deng.png") no-repeat center;position: relative;}
+.loginBox{width: 480px;height: 520px;background: #fff;position: absolute;right: 60px;top: 40px;}
+.left40{padding-left: 40px;}
+.left400{padding-left: 480px;font-size: 16px;}
+.Pforget{padding: 0 44px;cursor: pointer;}
+.forgetC{color: #009dec;}
+
+.resend,.replay{color: #009dec;cursor: pointer;}
+/*账户中心*/
+.foot-nav a{color: #fff;}
+.center_middle{width: 1246px;height: 800px;margin: 0 auto;margin-top: 90px;}
+.center_left{width: 270px;margin-right: 15px;height: 800px;background: #fff;float: left;text-align: center;}
+.center_left p{font-size: 24px;cursor: pointer;margin-top: 46px;}
+.center_color{color: #009dec;cursor: pointer;}
+.center_top{margin-top: 50px;margin-bottom: 20px;}
+.center_top h5{cursor: pointer;}
+.center_right{width: 960px;height: 800px;background: #fff;float: left;}
+.center_ji h5{margin: 15px 0;cursor: pointer;}
+.center_tit{text-align: right;padding-right: 34px;margin-top: 20px;}
+.center_tit span{cursor: pointer;}
+#delete_check{margin-right: 30px;}
+.centerR_box{padding-left: 20px;}
+.center_message{padding-left: 50px;border-bottom: 1px solid #dedfe0;height: 120px;  position: relative;}
+.center_con{padding-right: 150px;height: 80px;overflow-y: auto;}
+.center_con::-webkit-scrollbar{  display: none; }
+.center_time{font-size: 14px;color: #999;float: right;margin-right: 50px;}
+.check_delete{width: 60px;position: absolute;right: 15px;bottom: 10px;}
+.check_delete input{margin-right: 15px;}
+.single_dle{cursor: pointer;}
+.basic{border-bottom: 1px solid #dedfe0;height: auto;padding: 30px 0 40px 50px;font-size: 16px;color: #666;}
+.basic h3{margin-top: 0;color: #333;margin-bottom: 20px;}
+.basic .save_width{width: 70%;display: inline-block;}
+.save_she{margin-right: 100px;color: #999;}
+.save_str{font-weight: bold;color: #333;}
+
+.tcdPageCode{padding: 15px 20px;text-align: left;color: #ccc;text-align:right;}
+.tcdPageCode a{display: inline-block;color: #009dec;display: inline-block;height: 25px;	line-height: 25px;	padding: 0 10px;border: 1px solid #ddd;	margin: 0 2px;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode a:hover{text-decoration: none;border: 1px solid #009dec;}
+.tcdPageCode span.current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;color: #fff;background-color: #009dec;	border: 1px solid #009dec;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode span.disabled{	display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;	color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;border-radius: 4px;vertical-align: middle;}
+
+
+

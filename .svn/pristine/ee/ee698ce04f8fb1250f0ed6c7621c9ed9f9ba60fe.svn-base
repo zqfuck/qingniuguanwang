@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>青牛视频-v114，视频呼叫中心，可视总机,视频坐席,视频宣教培训.企业可视化场景应用平台.</title>
+    <meta name="keywords" content="青牛视频,视频坐席,可视总机,视频宣教,视频培训">
+    <meta name="description" content="青牛视频，提供视频呼叫中心，可视总机，视频坐席，视频宣教，视频培训等企业视频相关服务，青牛视频开创中国企业可视化场景应用的云服务平台。">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Web App">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <link rel="stylesheet" href="../styles/styleMb.css">
+    <script src="../scriptsMb/rem.js"></script>
+</head>
+<body style="background: #f5f5f5;">
+<header>
+    <span class="headTitle " >成功案例</span>
+    <div class="nav">
+        <button class="btn-nav">
+            <span class="icon-bar top"></span>
+            <span class="icon-bar middle"></span>
+            <span class="icon-bar bottom"></span>
+        </button>
+    </div>
+</header>
+<div class="mask ">
+    <button class="animated left"><a href="../indexMb.html">首页</a></button>
+    <button class="animated"><a href="./solution/solutionList.html">场景解决方案</a></button>
+   
+    <button class="animated left"><a href="./videoAgent.html">视频坐席</a></button>
+    <button class="animated"><a href="./videoMachine.html">可视总机</a></button>
+    <button class="animated left"><a href="./videoEducation.html">视频宣教</a></button>
+    <button class="animated "><a href="./videoTrain.html">视频培训</a></button>
+     
+    <button class="animated left"><a href="./videoCase.html">成功案例</a></button>
+    <footer style="position:absolute;bottom:0;left:0">
+        <div class="about-us" style="border-bottom:1px solid white;padding:0;margin:0">
+            <a href="./aboutUs.html">关于我们</a>
+            <span></span>
+            <a href="./connect.html">联系我们</a>
+        </div>
+        <div class="copy">
+            <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+            <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+        </div>
+    </footer>
+</div>
+<div class="banner">
+    <img src="../image/chenggonganli-banner.png" alt="">
+</div>
+<div class="caseBox">
+    <img src="../image/jingdong-.png" alt="">
+    <p>京东正在使用青牛的视频客服产品应用于京东的校园白条面签业务当中，
+        校园白条用户可使用青牛的技术，在京东完成小额借贷。
+    </p>
+    <p class="caseName" >——北京京东世纪贸易有限公司</p>
+</div>
+<div class="caseBox">
+    <img src="../image/shengtaojiaoyu.png" alt="" style="height: 1.26rem;">
+    <p>圣陶教育正在使用青牛的可视总机产品和视频客服等产品，通过青牛的视频产品，帮助圣陶实现客户的IM，音视频等多渠道的沟通服务，在产品销售环节，能够使得客服转接售前经理通过视频的方式进行产品讲解，提高了服务质量和效率。
+    </p>
+    <p class="caseName">——北京圣陶教育科技有限公司</p>
+</div>
+<div class="caseBox" >
+    <img src="../image/changdongfnag-.png" alt="">
+    <p>创东方投资APP继承了青牛的客户端SDK，用户可以方便的使用在线视频坐席服务；通过青牛的产品的和服务，实现了线上视频面签及线上合同签署等功能，推进了我司互联网服务的进程。
+    </p>
+    <p class="caseName" >——创东方投资有限公司</p>
+</div>
+<div class="caseBox">
+    <img src="../image/xiuna.png" alt="">
+    <p>修哪网通过修哪儿APP集成青牛用户端SDK以及使用视频客服产品，完善了在线视频服务业务，实现了修哪儿客户维修服务的初步诊断和专家在线视频指导等功能。
+    </p>
+    <p class="caseName" >——北京修哪儿互联网科技有限公司</p>
+</div>
+
+<footer>
+    <div class="about">
+        <a href="./aboutUs.html">关于我们</a>
+        <span></span>
+        <a href="./connect.html">联系我们</a>
+    </div>
+    <div class="copy">
+        <p style="margin-bottom: 0.1rem;">Copyright © 2016 channelsoft 版权所有：</p>
+        <p>青牛（北京）技术有限公司  京ICP备10016421号-6</p>
+    </div>
+</footer>
+
+</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scriptsMb/commen.js"></script>
+</html>

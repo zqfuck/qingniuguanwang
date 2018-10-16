@@ -1,0 +1,290 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]>   <html class="ie7"><![endif]-->
+<!--[if IE 8]>   <html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+	<head> 
+		<meta charset="utf-8">
+		<title>解决方案-青牛视频行业解决方案，行业场景.</title>
+		<meta name="keywords" content="青牛视频行业应用场景,">
+		<meta name="description" content="青牛视频行业解决方案与应用场景">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-title" content="Web App">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+		<link rel="stylesheet" href="../templates/default/css/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+		<link rel="stylesheet" href="../styles/animate.css">
+        <script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9a3733fe3ea468d0']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+  </script>	   
+	</head>
+	<body style="background: #fff;">
+
+
+<style>
+A.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}
+A.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}
+A.info          {color:#2F5BFF;background:transparent;text-decoration:none}
+A.info:hover    {color:green;background:transparent;text-decoration:underline}
+</style>
+
+
+
+			<div class="headerBox">
+		<div class="header">
+<!--
+			<a href="http://www.cdesk.ccod.com/register/gotoRegister" class="logo" style="font-size: 20px">青牛在线</a></a>
+-->
+
+			<ul class="nav list-unstyled clearfix">
+				<li id="logo"><img src="../img/logo.png" alt="青牛视频"></li>
+				<li ><a href="../indexPc.html">首页</a></li>
+				<li >
+					<a href="../product.html">产品服务<span></span> </a>
+					<div class="proNav" id="">
+						<ul class="inner list-unstyled">
+							<li><a href="../product/ne.html">视频坐席</a></li>
+							<li><a href="../product/cloud.html">可视总机</a></li>
+							<li><a href="../product/hu.html">视频宣教</a></li>
+							<li><a href="../product/pei.html">视频培训</a></li>
+							<!--<li><a href="product/ce.html">M1</a></li>
+                            <li><a href="product/app.html">T1</a></li>
+                            <li><a href="product/live.html">CDSK</a></li>
+                            <li><a href="product/api.html">SDK&API</a></li>-->
+						</ul>
+					</div>
+				</li>
+
+				<li class="on">
+										<a href="99.html">场景解决方案<!-- <span></span> --></a>
+										<div class="proNav" id="">
+					<!-- <ul class="inner list-unstyled">
+						<li><a href="./99.html" style="padding:0 0 10px">视频呼叫中心</a></li>
+						<li><a href="./98.html">视频路演</a></li>
+						<li><a href="./97.html">视频面签</a></li>
+					</ul> -->
+				</div>
+									</li>
+				<li ><a href="../case.html">成功案例</a></li>
+				<li ><a href="../experience.html">体验与下载<span></span></a>
+					<div class="proNav" id="proNav">
+						<ul class="inner list-unstyled">
+							<li><a href="../experience.html">体验</a></li>
+							<li><a href="../download.html">下载</a></li>
+						</ul>
+					</div>
+				</li>
+				<li ><a href="../advice.html">帮助与支持</a></li>
+				<li ><a href="../news.html">产品动态</a></li>
+				<li id="login_show"><a href="../login.html" target="_blank" style="padding: 0 4px;display: inline-block;">登录</a><a href="../login/register.html" target="_blank" style="padding: 0 2px;display: inline-block;">/ 注册</a></li>
+				<li id="center_show" class="none"><a href="../center.html">账户中心<span></span></a>
+					<div class="proNav">
+						<ul class="inner list-unstyled">
+							<li id="loginOut"><a href="javascript:;">退出</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+
+			<div class="lr">
+				<!--<a href="http://www.cdesk.ccod.com/register/gotoRegister">免费注册</a>-->
+			</div>
+		</div>
+	</div>
+<div style="width: 100%;margin: 0 auto;">
+	<div style="width: 100%;overflow: hidden;">
+		<div class="banner" style="background-image:url(../img/jie.png);">
+			<!--	<image src="../image/jie.png" />-->
+		</div>
+	</div>
+</div>
+<div class="list-solution">
+	<!-- <span class="turn-left" id="turnLeft"></span>
+	<span class="turn-right" id="turnRight"></span> -->
+	<!-- <div style="width:1246px;margin:0 auto;overflow:hidden">
+		<ul id="list">
+			<li><a href="99.html" class="active">视频呼叫中心</a></li>
+			<li><a href="98.html">视频路演</a></li>
+			<li><a href="97.html">视频面签</a></li>
+			<li><a  href="100.html" >金融双录</a></li>
+			<li><a href="101.html" >私募连线</a></li>
+			<li><a href="102.html" >网上沙龙</a></li>
+			<li><a href="103.html" >厅堂微沙龙</a></li>
+			<li><a href="104.html">空中理财</a></li>
+			<li><a  href="105.html" >可视咨询</a></li>
+			<li><a  href="106.html" >远程保障维修</a></li>
+			<li><a href="107.html" >远程定损</a></li>
+		</ul>
+	</div> -->
+	<ul>
+		
+		
+		<li><a href="./97.html">视 频 面 签</a></li>
+		<li><a href="./100.html">金 融 双 录</a></li>
+		<li><a href="./98.html">视 频  路  演</a></li>
+		<li><a href="./101.html">私 募 连 线</a></li>
+		<li><a href="./102.html">网 上 沙 龙</a></li>
+		<li><a href="./103.html">厅堂微沙龙</a></li>
+		<li><a href="./104.html">空 中 理 财</a></li>
+		<li class="active"><a href="./106.html">远程报障维修</a></li>
+		<li><a href="./107.html">远 程 定 损</a></li>
+		<li><a href="./105.html">可 视 咨 询</a></li>
+		<li><a href="./99.html">视频呼叫中心</a></li>
+	</ul>			
+</div>
+<div class="changjingtd">
+	<h2>场景痛点</h2>
+	<img class="wow fadeInLeft" src="../image/ycbz2.png" alt="">
+	<img class="wow fadeInRight" style="margin:0;position:absolute;left:720px;top:65px" src="../image/ycbz3.png" alt="">
+</div>
+<div class="jiejuefangan">
+	<div>
+		<h2>解决方案</h2>
+		<p>主要面向产品售后服务，产品出现问题时，维修人员无需亲自到达现场，通过视频方式连线到专业维修人员，准确定位问题，实时解答故障，减少故障给客户带来的损失；同时维修信息可在线备案，建立维修档案，为服务提升与改进提供依据。</p>
+		<img style="margin-top:60px" src="../image/ycbz.png" alt="">
+	</div>
+	
+</div>
+<div>
+	<div class="contentBox">
+		<h2>方案优势</h2>
+		<p>一对一高清视频通话：高清、高码，高帧率 <br>
+			性能稳定：启发式路径学习和动态自适应传输技术，有效克服互联网网络抖动对视频通信的影响，确保音视频实时传输高效稳定。<br>
+			接入便利：Web 免插件，Android/iOS 提供标准SDK快速集成
+		</p>
+	</div>
+</div>
+<div style="background-color:#fafafa">
+	<div class="product-specl hh">
+		<h2>主要功能特点</h2>
+		<h3>坐席置忙/闲</h3>
+		<p>支持坐席手动置忙/置闲</p>
+		<h3>排队、路由分配策略</h3>
+		<p>支持多种路由分配策略，支持根据实际需求添加新的路由分配策略；支持排队</p>
+		<h3>在线预约、提醒</h3>
+		<p>支持客户在线预约，到达预约时间前提醒客户</p>
+		<h3>录音/录像</h3>
+		<p>支持全程录音录像或关键画面拍照、录像；可云端存储或指定位置存储</p>
+		<h3>客户弹屏</h3>
+		<p>支持多种形式的客户弹屏，默认客户页弹屏或指定web地址页面弹屏</p>
+		<h3>客户关系管理</h3>
+		<p>支持客户资料导入，客户信息录入、编辑等，坐席人员可在系统内部进行客户维护</p>
+		<h3>联络历史管理</h3>
+		<p>每次客户呼入会单独形成一条联络历史，含客户信息及相关录音录像资料</p>
+		<h3>工单管理</h3>
+		<p>支持在系统内针对某一个客户生成工单，可指定到相应的坐席或坐席组</p>
+		<h3>知识库管理</h3>
+		<p>支持客服知识库维护，便于客服在服务客户时调取</p>
+		<h3>统计报表</h3>
+		<p>支持漏话统计、呼叫汇总、呼叫明细、坐席个人表现等报表统计</p>
+	</div>
+</div>
+<div style="background-color:white">
+	<div class="contentBox">
+		<h2>案例分享</h2>
+		<p>银联商务面向pos机商户开放视频报障服务，商户用户可通过银联商务app或智能终端，向银联商务报障坐席发起视频请求，在线实时解决故障</p>
+		<img src="../image/ycbz1.png" alt="">
+	</div>
+</div>
+	
+
+<div class="footer" style="margin-top:0">
+			
+			<div class="foot-nav clearfix">
+				<ul>
+					<li class="special"><a href="../product.html">产品服务</a></li>
+					<li><a href="../product/ne.html">视频坐席</a></li>
+					<li><a href="../product/cloud.html">可视总机</a></li>
+					<li><a href="../product/hu.html">视频宣教</a></li>
+					<li><a href="../product/pei.html">视频培训</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="./99.html">场景解决方案</a></li>
+					<li><a href="./99.html">视频呼叫中心</a></li>
+					<li><a href="./98.html">视频路演</a></li>
+					<li><a href="./97.html">视频面签</a></li>
+					<li><a href="./100.html">金融双录</a></li>
+					<li><a href="./101.html">私募连线</a></li>	
+					<li><a href="./102.html">网上沙龙</a></li>	
+				</ul>
+				<ul>
+					<li style="margin-top:60px"><a href="../solution/103.html">厅堂微沙龙</a></li>
+					<li><a href="./104.html">空中理财</a></li>
+					<li><a href="./105.html">可视咨询</a></li>
+					<li><a href="./106.html">远程保障维修</a></li>
+					<li><a href="./107.html">远程定损</a></li>
+				</ul>
+				<ul>
+					<li class="special"><a href="../experience.html">体验与下载</a></li>
+					<li><a href="../experience.html">体验</a></li>
+					<li><a href="../download.html">下载</a></li>
+				</ul>
+				<ul>
+					<li class="special" style="margin-bottom:28px"><a href="../advice.html">帮助与支持</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../case.html">成功案例</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../news.html">产品动态</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../login.html">登录注册</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../about.html">关于我们</a></li>
+					<li class="special" style="margin-bottom:28px"><a href="../join.html">加入我们</a></li>
+				</ul>
+				<div class="shu"></div>
+				<ul>
+					<li class="special"><a href="../contact.html">联系我们</a></li>
+					<li>客服热线：</li>
+					<li style="font-size:24px;font-weight:bold;color:#fff">4000-825-114</li>
+					<li><span class="qrcode"></span></li>
+				</ul>
+			</div>
+			
+
+			<div class="file">
+				Copyright © 2016 channelsoft 版权所有：青牛（北京）技术有限公司  京ICP备10016421号-6
+				<br>			</div>
+		</div>
+
+<div class="fixed-r">
+
+	<a class="try" href="javascript:;" target="_blank"><div class="box"><span>立即试用</span></div></a>
+	<a class="zq-shi" href="http://www.cdesk.v114.com/contact?applyId=250" target="_blank"><div class="box"><span>呼叫视频客服</span></div></a>
+	<a class="hh-phone" href="javascript:;" target="_blank"><div class="box" style="width:auto"><span style="width:108px">4000-825-114</span></div></a>
+
+</div>
+
+	</body>
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/commen.js"></script>
+<script src='http://www.cdesk.v114.com/IM_hy/js/ButelNetCall.js'></script>
+<script src='http://www.cdesk.v114.com/IM_hy/IM.js'></script>
+<script src="../scripts/lunbo.js"></script>
+<script src="../scriptsMb/wow.js"></script>
+<script>
+	window.onload=function(){
+		var lsit=document.getElementById('list');
+		list.style.transform='translateX(-575px)';
+	}
+	 var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        offset: 400,
+        mobile: true,
+        live: true
+    });
+    wow.init();
+</script>
+</html>
